@@ -91,7 +91,7 @@ body {
   display: inline;
   text-align: center;
   position: relative;
-  animation: btn-anime 0.8s cubic-bezier(1, 0.32, 0.23, 1.39) 2s;
+  animation: btn-anime 0.8s cubic-bezier(1, 0.32, 0.23, 1.39);
 }
 .Modal-btn::after {
   content: "";
