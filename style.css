@@ -127,9 +127,6 @@ body {
   }
 }
 @media screen and (max-width: 37.5em) {
-  .Modal {
-    margin-top: 30%;
-  }
   .times {
     font-size: 4rem;
   }
